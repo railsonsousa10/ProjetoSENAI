@@ -1,0 +1,7 @@
+<<<Comprar>>>
+
+1 - Cimento
+2 - Areia 
+3 - Ferro
+4 - Tijolos
+5 - Aditivo 
