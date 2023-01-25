@@ -1,5 +1,7 @@
 Tarefas
 
 1 - Comprar lãmpada do banhairo.
-2 - Dar banho no cachorro.
+2 - Dar banho no cachorro. ok
 3 - Alugar terreno.
+4 - Pagar fatura do cartão.
+5 - Pagar a Internet.
